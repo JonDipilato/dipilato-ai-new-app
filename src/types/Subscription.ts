@@ -29,12 +29,12 @@ export type PricingPlan = {
   devPriceId: string;
   prodPriceId: string;
   features: {
-    teamMember: number;
-    website: number;
-    storage: number;
-    transfer: number;
+    aiCalls: number;
+    textFollowups: number;
+    customBots: number;
   };
 };
+
 
 export type IStripeSubscription = {
   stripeSubscriptionId: string | null;

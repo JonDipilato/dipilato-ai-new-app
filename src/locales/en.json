@@ -1,7 +1,7 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - The perfect SaaS template to build and scale your business with ease.",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "Dipilato Automations helps you close more deals, save time with intelligent agents, and scale your business with ease.",
+    "meta_description": "Dipilato Automations helps you close more deals and save time with intelligent agents."
   },
   "Navbar": {
     "sign_in": "Sign In",
@@ -10,12 +10,12 @@
     "docs": "Docs",
     "blog": "Blog",
     "community": "Community",
-    "company": "Company"
+    "company": "DipilatoAutomations"
   },
   "Hero": {
-    "follow_twitter": "Follow @Ixartz on Twitter",
-    "title": "The perfect <important>SaaS template</important> to build and scale your business with ease.",
-    "description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "follow_twitter": "Follow @Jon_Dipilato on X",
+    "title": "<important>Automate</important>  your leads with Dipilato Automations<important> AI agents</important> and close deals while you sleep.",
+    "description": "Dipilato Automations helps you close more deals and save time with intelligent agents.",
     "primary_button": "Get Started",
     "secondary_button": "Star on GitHub"
   },
@@ -23,144 +23,184 @@
     "title": "Sponsored by"
   },
   "Features": {
-    "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
-    "feature1_title": "Node.js",
-    "feature2_title": "React",
-    "feature3_title": "Tailwind CSS",
-    "feature4_title": "TypeScript",
-    "feature5_title": "Shadcn UI",
-    "feature6_title": "ESLint",
-    "feature_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+  "section_subtitle": "Features",
+  "section_title": "Automate With AI So YOU Can Surpass Your Current Potential",
+  "section_description": "Dipilato Automations helps you close more deals and save time with intelligent agents.",
+
+  "feature1_title": "Conversational Agents",
+  "feature1_description": "AI voice agents that speak naturally, handle objections, and guide prospects to your calendar 24/7.",
+
+  "feature2_title": "Sales Agents",
+  "feature2_description": "Automated outbound callers that qualify leads, follow up, and even close simple deals on your behalf.",
+
+  "feature3_title": "Personal Assistant AI Agents",
+  "feature3_description": "AI bots that manage your tasks, schedule meetings, send reminders, and keep your day flowing smoothly.",
+
+  "feature4_title": "Telegram Agents",
+  "feature4_description": "Stay updated on the go. Get AI-powered summaries, deal alerts, and instant replies right inside Telegram.",
+
+  "feature5_title": "Slack AI Agents",
+  "feature5_description": "Automate support, task tracking, and internal alerts inside Slack — all powered by smart AI bots.",
+
+  "feature6_title": "CRM and Email AI AGENTS",
+  "feature6_description": "Track customer data, trigger automations, and send intelligent follow-ups via email and CRM workflows."
   },
   "Pricing": {
     "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "section_title": " Your Business Potential Through The ROOF!",
+    "section_description": "Test it out for FREE!",
     "button_text": "Get Started"
   },
   "PricingPlan": {
-    "free_plan_name": "Free",
-    "premium_plan_name": "Premium",
-    "enterprise_plan_name": "Enterprise",
-    "free_plan_description": "For individuals",
-    "premium_plan_description": "For small teams",
-    "enterprise_plan_description": "For industry leaders",
-    "feature_team_member": "{number} Team Members",
-    "feature_website": "{number} Websites",
-    "feature_storage": "{number} GB Storage",
-    "feature_transfer": "{number} TB Transfer",
+  "free_plan_name": "Free Trial",
+  "premium_plan_name": "Growth Plan",
+  "enterprise_plan_name": "Automation Empire",
+
+  "free_plan_description": "Try our core features and experience AI automation risk-free.",
+  "premium_plan_description": "Perfect for solopreneurs or small teams ready to scale with automation.",
+  "enterprise_plan_description": "Built for established businesses wanting full AI-powered control and custom automation systems.",
+
+  "feature_ai_calls": "{number} AI Outbound Calls",
+  "feature_text_followups": "{number} Automated Follow-Up Messages",
+  "feature_custom_bots": "{number} Custom Telegram or Slack Bots",
+  "feature_calendar_booking": "Smart Calendar Integration",
+  "feature_support": "Priority Support Access",
+  "feature_crm_sync": "CRM Integration & Pipeline Setup",
     "feature_email_support": "Email Support",
     "plan_interval_month": "month",
     "plan_interval_year": "year",
     "next_renew_date": "Your subscription renews on {date}"
   },
   "FAQ": {
-    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+    "items": [
+      {
+        "question": "What makes Dipilato Automations different from other automation platforms?",
+        "answer": "Dipilato Automations combines powerful automation tools with personalized AI agents to streamline your business workflows. Our platform merges a feature-rich SaaS system with advanced outbound and inbound AI sales agents, as well as custom bots for platforms like Telegram, Slack, and more. You gain efficiency, save time, and increase conversions — all through one seamless experience."
+      },
+      {
+        "question": "Can I integrate my existing tools with Dipilato Automations?",
+        "answer": "Absolutely. Dipilato Automations supports seamless integration with popular tools and CRMs. Whether you're using email, messaging apps, or internal business software, our platform is built to work with your stack—not replace it."
+      },
+      {
+        "question": "What types of businesses benefit most from Dipilato Automations?",
+        "answer": "Our platform is built to serve small business owners, real estate pros, service providers, and growing teams. If your business involves outreach, client management, or internal task automation, Dipilato Automations can help you operate smarter and scale faster."
+      },
+      {
+        "question": "How does the AI outbound sales agent work?",
+        "answer": "Our AI outbound sales agent is trained to handle real-time calls, qualify leads, and even book meetings directly to your calendar. It speaks naturally, responds based on lead input, and handles follow-up actions like emails or SMS—automatically."
+      },
+      {
+        "question": "Do I need to be technical to use Dipilato Automations?",
+        "answer": "Not at all. Our no-code interface and built-in templates allow you to launch bots, campaigns, and workflows without writing a single line of code. You’ll have full control with simple setup and expert support when needed."
+      },
+      {
+        "question": "What kind of support is available?",
+        "answer": "We offer personalized onboarding, a resource-rich help center, and priority support channels. Our team is committed to your success—from setup to scaling."
+      }
+    ]
   },
   "CTA": {
-    "title": "You are ready?",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "button_text": "Star on GitHub"
+    "title": "Ready to automate success?",
+    "description": "Join Dipilato Automations and experience the future of AI-powered business automation with built-in bots, virtual agents, and CRM tools all in one place.",
+    "button_text": "Book Your Demo"
   },
   "Footer": {
-    "product": "Product",
-    "docs": "Docs",
-    "blog": "Blog",
-    "community": "Community",
-    "company": "Company",
+    "product": "Platform",
+    "docs": "Documentation",
+    "blog": "Automation Blog",
+    "community": "Community Hub",
+    "company": "About Dipilato Automations",
     "terms_of_service": "Terms Of Service",
     "privacy_policy": "Privacy Policy",
-    "designed_by": "Designed by <author></author>."
+    "designed_by": "Designed by Dipilato Automations."
   },
   "ProtectFallback": {
-    "not_enough_permission": "You do not have the permissions to perform this action"
+    "not_enough_permission": "You do not have the permissions to perform this action. Please contact your administrator."
   },
   "SignIn": {
-    "meta_title": "Sign in",
-    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+    "meta_title": "Sign in to Dipilato Automations",
+    "meta_description": "Seamlessly sign in to your account and manage your automation solutions."
   },
   "SignUp": {
-    "meta_title": "Sign up",
-    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+    "meta_title": "Join Dipilato Automations",
+    "meta_description": "Effortlessly create your account and start scaling your business with smart automation."
   },
   "DashboardLayout": {
-    "home": "Home",
-    "todos": "Todos",
-    "members": "Members",
+    "home": "Overview",
+    "todos": "Tasks",
+    "members": "Team",
     "billing": "Billing",
     "settings": "Settings"
   },
   "Dashboard": {
-    "meta_title": "SaaS Template Dashboard",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "Dipilato Automations Dashboard",
+    "meta_description": "Manage your automation, agents, integrations, and analytics — all in one powerful dashboard."
   },
   "DashboardIndex": {
     "title_bar": "Dashboard",
-    "title_bar_description": "Welcome to your dashboard",
-    "message_state_title": "Let's get started",
-    "message_state_description": "You can customize this page by editing the file at <code>dashboard/page.tsx</code>",
-    "message_state_button": "Star on GitHub",
-    "message_state_alternative": "Want more features using the same stack? Try <url></url>."
+    "title_bar_description": "Your central hub for automation control",
+    "message_state_title": "Kickstart Your Automations",
+    "message_state_description": "Connect your tools, launch your agents, and customize your workflow.",
+    "message_state_button": "View Setup Guide",
+    "message_state_alternative": "Want us to build it for you? Contact support@dipilatoautomations.com"
   },
   "UserProfile": {
-    "title_bar": "User Profile",
-    "title_bar_description": "View and manage your user profile"
+    "title_bar": "Your Profile",
+    "title_bar_description": "Manage your personal preferences and account settings"
   },
   "OrganizationProfile": {
-    "title_bar": "Organization Management",
-    "title_bar_description": "Manage your organization"
+    "title_bar": "Team & Organization",
+    "title_bar_description": "Configure your organization’s agents, integrations, and access controls."
   },
   "Billing": {
     "title_bar": "Billing",
-    "title_bar_description": "Manage your billing and subscription",
-    "current_section_title": "Current Plan",
-    "current_section_description": "Adjust your payment plan to best suit your requirements",
+    "title_bar_description": "Manage your subscription and plan features",
+    "current_section_title": "Your Plan",
+    "current_section_description": "Switch between growth plans based on your team’s evolving needs.",
     "manage_subscription_button": "Manage Subscription"
   },
   "BillingOptions": {
     "current_plan": "Current Plan",
-    "upgrade_plan": "Get Started"
+    "upgrade_plan": "Upgrade Now"
   },
   "CheckoutConfirmation": {
-    "title_bar": "Payment Confirmation",
-    "message_state_title": "Payment successful",
-    "message_state_description": "Your payment has been successfully processed. Thank you for your purchase!",
-    "message_state_button": "Go back to Billing"
+    "title_bar": "Checkout Complete",
+    "message_state_title": "Welcome aboard!",
+    "message_state_description": "Your subscription is active. Let’s get your automations set up!",
+    "message_state_button": "Go to Dashboard"
   },
   "DataTable": {
-    "no_results": "No results."
+    "no_results": "No results found. Add new entries to get started."
   },
   "Todos": {
-    "title_bar": "Todo List",
-    "title_bar_description": "View and manage your todo list",
-    "add_todo_button": "New todo"
+    "title_bar": "Task Manager",
+    "title_bar_description": "Track your projects and automation triggers",
+    "add_todo_button": "Add Task"
   },
   "TodoTableColumns": {
-    "open_menu": "Open menu",
+    "open_menu": "Options",
     "edit": "Edit",
-    "delete": "Delete",
-    "title_header": "Title",
-    "message_header": "Message",
-    "created_at_header": "Created at"
+    "delete": "Remove",
+    "title_header": "Task",
+    "message_header": "Details",
+    "created_at_header": "Created"
   },
   "AddTodo": {
-    "title_bar": "Add Todo",
-    "add_todo_section_title": "Create a new todo",
-    "add_todo_section_description": "Fill in the form below to create a new todo"
+    "title_bar": "New Task",
+    "add_todo_section_title": "Create Automation Task",
+    "add_todo_section_description": "Use this form to log an action or trigger for your team or agent"
   },
   "EditTodo": {
-    "title_bar": "Edit todo",
-    "edit_todo_section_title": "Modify todo",
-    "edit_todo_section_description": "Fill in the form below to edit the todo"
+    "title_bar": "Edit Task",
+    "edit_todo_section_title": "Update Automation",
+    "edit_todo_section_description": "Modify your task or trigger below."
   },
   "TodoForm": {
-    "title_label": "Title",
-    "title_description": "Enter a descriptive title for your todo.",
-    "message_title": "Message",
-    "message_description": "Enter a detailed message for your todo.",
-    "submit_button": "Submit"
+    "title_label": "Task Name",
+    "title_description": "Give your task a name that describes its function.",
+    "message_title": "Details",
+    "message_description": "Explain what this task will trigger or accomplish.",
+    "submit_button": "Save"
   }
 }
+

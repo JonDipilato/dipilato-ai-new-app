@@ -4,8 +4,8 @@ import { StickyBanner } from '@/features/landing/StickyBanner';
 
 export const DemoBanner = () => (
   <StickyBanner>
-    Live Demo of SaaS Boilerplate -
+    Discover how Dipilato Automations helps businesses scale with AI —
     {' '}
-    <Link href="/sign-up">Explore the User Dashboard</Link>
+    <Link href="/sign-up" className="underline font-semibold">Launch Your Automation Dashboard</Link>
   </StickyBanner>
 );
