@@ -142,7 +142,7 @@
     "message_state_title": "Kickstart Your Automations",
     "message_state_description": "Connect your tools, launch your agents, and customize your workflow.",
     "message_state_button": "View Setup Guide",
-    "message_state_alternative": "Want us to build it for you? Contact support@dipilatoautomations.com"
+    "message_state_alternative": "Want us to build it for you? Contact jondipilato@dipilatoautomations.com"
   },
   "UserProfile": {
     "title_bar": "Your Profile",
@@ -203,4 +203,3 @@
     "submit_button": "Save"
   }
 }
-

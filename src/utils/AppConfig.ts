@@ -6,7 +6,7 @@ const localePrefix: LocalePrefix = 'as-needed';
 
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
-  name: 'SaaS Template',
+  name: 'DiPilato Automations',
   locales: [
     {
       id: 'en',
@@ -36,8 +36,8 @@ export const PricingPlanList: Record<string, PricingPlan> = {
     prodPriceId: '',
     features: {
       aiCalls: 10,
-      textFollowups: 25,
-      customBots: 0,
+      textFollowups: 0,
+      customBots: 1,
     },
   },
   [PLAN_ID.PREMIUM]: {
@@ -48,9 +48,9 @@ export const PricingPlanList: Record<string, PricingPlan> = {
     devPriceId: 'price_1PNksvKOp3DEwzQlGOXO7YBK',
     prodPriceId: '',
     features: {
-      aiCalls: 100,
+      aiCalls: 30,
       textFollowups: 250,
-      customBots: 1,
+      customBots: 2,
     },
   },
   [PLAN_ID.ENTERPRISE]: {
@@ -61,7 +61,7 @@ export const PricingPlanList: Record<string, PricingPlan> = {
     devPriceId: 'price_1PNksvKOp3DEwzQli9IvXzgb',
     prodPriceId: 'price_123',
     features: {
-      aiCalls: 500,
+      aiCalls: 100,
       textFollowups: 1000,
       customBots: 3,
     },
