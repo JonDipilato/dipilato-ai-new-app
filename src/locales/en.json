@@ -16,34 +16,34 @@
     "follow_twitter": "Follow @Jon_Dipilato on X",
     "title": "<important>Automate</important>  your leads with Dipilato Automations<important> AI agents</important> and close deals while you sleep.",
     "description": "Dipilato Automations helps you close more deals and save time with intelligent agents.",
-    "primary_button": "Get Started",
+    "primary_button": "Subscribe on YouTube",
     "secondary_button": "Star on GitHub"
   },
   "Sponsors": {
     "title": "Sponsored by"
   },
   "Features": {
-  "section_subtitle": "Features",
-  "section_title": "Automate With AI So YOU Can Surpass Your Current Potential",
-  "section_description": "Dipilato Automations helps you close more deals and save time with intelligent agents.",
+    "section_subtitle": "Features",
+    "section_title": "Automate With AI So YOU Can Surpass Your Current Potential",
+    "section_description": "Dipilato Automations helps you close more deals and save time with intelligent agents.",
 
-  "feature1_title": "Conversational Agents",
-  "feature1_description": "AI voice agents that speak naturally, handle objections, and guide prospects to your calendar 24/7.",
+    "feature1_title": "Conversational Agents",
+    "feature1_description": "AI voice agents that speak naturally, handle objections, and guide prospects to your calendar 24/7.",
 
-  "feature2_title": "Sales Agents",
-  "feature2_description": "Automated outbound callers that qualify leads, follow up, and even close simple deals on your behalf.",
+    "feature2_title": "Sales Agents",
+    "feature2_description": "Automated outbound callers that qualify leads, follow up, and even close simple deals on your behalf.",
 
-  "feature3_title": "Personal Assistant AI Agents",
-  "feature3_description": "AI bots that manage your tasks, schedule meetings, send reminders, and keep your day flowing smoothly.",
+    "feature3_title": "Personal Assistant AI Agents",
+    "feature3_description": "AI bots that manage your tasks, schedule meetings, send reminders, and keep your day flowing smoothly.",
 
-  "feature4_title": "Telegram Agents",
-  "feature4_description": "Stay updated on the go. Get AI-powered summaries, deal alerts, and instant replies right inside Telegram.",
+    "feature4_title": "Telegram Agents",
+    "feature4_description": "Stay updated on the go. Get AI-powered summaries, deal alerts, and instant replies right inside Telegram.",
 
-  "feature5_title": "Slack AI Agents",
-  "feature5_description": "Automate support, task tracking, and internal alerts inside Slack — all powered by smart AI bots.",
+    "feature5_title": "Slack AI Agents",
+    "feature5_description": "Automate support, task tracking, and internal alerts inside Slack — all powered by smart AI bots.",
 
-  "feature6_title": "CRM and Email AI AGENTS",
-  "feature6_description": "Track customer data, trigger automations, and send intelligent follow-ups via email and CRM workflows."
+    "feature6_title": "CRM and Email AI AGENTS",
+    "feature6_description": "Track customer data, trigger automations, and send intelligent follow-ups via email and CRM workflows."
   },
   "Pricing": {
     "section_subtitle": "Features",
@@ -52,20 +52,20 @@
     "button_text": "Get Started"
   },
   "PricingPlan": {
-  "free_plan_name": "Free Trial",
-  "premium_plan_name": "Growth Plan",
-  "enterprise_plan_name": "Automation Empire",
+    "free_plan_name": "Free Trial",
+    "premium_plan_name": "Growth Plan",
+    "enterprise_plan_name": "Automation Empire",
 
-  "free_plan_description": "Try our core features and experience AI automation risk-free.",
-  "premium_plan_description": "Perfect for solopreneurs or small teams ready to scale with automation.",
-  "enterprise_plan_description": "Built for established businesses wanting full AI-powered control and custom automation systems.",
+    "free_plan_description": "Try our core features and experience AI automation risk-free.",
+    "premium_plan_description": "Perfect for solopreneurs or small teams ready to scale with automation.",
+    "enterprise_plan_description": "Built for established businesses wanting full AI-powered control and custom automation systems.",
 
-  "feature_ai_calls": "{number} AI Outbound Calls",
-  "feature_text_followups": "{number} Automated Follow-Up Messages",
-  "feature_custom_bots": "{number} Custom Telegram or Slack Bots",
-  "feature_calendar_booking": "Smart Calendar Integration",
-  "feature_support": "Priority Support Access",
-  "feature_crm_sync": "CRM Integration & Pipeline Setup",
+    "feature_ai_calls": "{number} AI Outbound Calls",
+    "feature_text_followups": "{number} Automated Follow-Up text back",
+    "feature_custom_bots": "{number} Custom Telegram or Slack Bots",
+    "feature_calendar_booking": "Smart Calendar Integration",
+    "feature_support": "Priority Support Access",
+    "feature_crm_sync": "CRM Integration & Pipeline Setup",
     "feature_email_support": "Email Support",
     "plan_interval_month": "month",
     "plan_interval_year": "year",
@@ -74,31 +74,32 @@
   "FAQ": {
     "items": [
       {
-        "question": "What makes Dipilato Automations different from other automation platforms?",
-        "answer": "Dipilato Automations combines powerful automation tools with personalized AI agents to streamline your business workflows. Our platform merges a feature-rich SaaS system with advanced outbound and inbound AI sales agents, as well as custom bots for platforms like Telegram, Slack, and more. You gain efficiency, save time, and increase conversions — all through one seamless experience."
+        "question": "What makes Dipilato Automations different?",
+        "answer": "Dipilato Automations combines powerful automation tools with personalized AI agents to streamline your business workflows..."
       },
       {
         "question": "Can I integrate my existing tools with Dipilato Automations?",
-        "answer": "Absolutely. Dipilato Automations supports seamless integration with popular tools and CRMs. Whether you're using email, messaging apps, or internal business software, our platform is built to work with your stack—not replace it."
+        "answer": "Absolutely. Dipilato Automations supports seamless integration with popular tools and CRMs..."
       },
       {
         "question": "What types of businesses benefit most from Dipilato Automations?",
-        "answer": "Our platform is built to serve small business owners, real estate pros, service providers, and growing teams. If your business involves outreach, client management, or internal task automation, Dipilato Automations can help you operate smarter and scale faster."
+        "answer": "Our platform is built to serve small business owners, real estate pros..."
       },
       {
         "question": "How does the AI outbound sales agent work?",
-        "answer": "Our AI outbound sales agent is trained to handle real-time calls, qualify leads, and even book meetings directly to your calendar. It speaks naturally, responds based on lead input, and handles follow-up actions like emails or SMS—automatically."
+        "answer": "Our AI outbound sales agent is trained to handle real-time calls, qualify leads..."
       },
       {
         "question": "Do I need to be technical to use Dipilato Automations?",
-        "answer": "Not at all. Our no-code interface and built-in templates allow you to launch bots, campaigns, and workflows without writing a single line of code. You’ll have full control with simple setup and expert support when needed."
+        "answer": "Not at all. Our no-code interface and built-in templates allow you to launch bots, campaigns, and workflows..."
       },
       {
         "question": "What kind of support is available?",
-        "answer": "We offer personalized onboarding, a resource-rich help center, and priority support channels. Our team is committed to your success—from setup to scaling."
+        "answer": "We offer personalized onboarding, a resource-rich help center, and priority support channels..."
       }
     ]
   },
+
   "CTA": {
     "title": "Ready to automate success?",
     "description": "Join Dipilato Automations and experience the future of AI-powered business automation with built-in bots, virtual agents, and CRM tools all in one place.",

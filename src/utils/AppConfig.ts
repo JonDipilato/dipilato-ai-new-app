@@ -12,8 +12,8 @@ export const AppConfig = {
       id: 'en',
       name: 'English',
     },
-    { id: 'fr', name: 'Français' },
   ],
+
   defaultLocale: 'en',
   localePrefix,
 };
@@ -42,7 +42,7 @@ export const PricingPlanList: Record<string, PricingPlan> = {
   },
   [PLAN_ID.PREMIUM]: {
     id: PLAN_ID.PREMIUM,
-    price: 279,
+    price: 297,
     interval: BILLING_INTERVAL.MONTH,
     testPriceId: 'price_premium_test',
     devPriceId: 'price_1PNksvKOp3DEwzQlGOXO7YBK',
@@ -67,4 +67,3 @@ export const PricingPlanList: Record<string, PricingPlan> = {
     },
   },
 };
-

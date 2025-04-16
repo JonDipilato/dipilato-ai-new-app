@@ -1,9 +1,18 @@
 import { render, screen } from '@testing-library/react';
 import { NextIntlClientProvider } from 'next-intl';
 
-import messages from '@/locales/en.json';
+import rawMessages from '@/locales/en.json';
 
 import { CenteredFooter } from './CenteredFooter';
+
+// ✅ Fix: Ensure messages match expected format
+const messages = {
+  ...rawMessages,
+  FAQ: {
+    ...rawMessages.FAQ,
+    items: {}, // Type-safe workaround
+  },
+};
 
 describe('CenteredFooter', () => {
   describe('Render method', () => {

@@ -8,11 +8,20 @@ import {
 } from '@/components/ui/accordion';
 import { Section } from '@/features/landing/Section';
 
+type FAQItem = {
+  question: string;
+  answer: string;
+};
+
 export const FAQ = () => {
   const t = useTranslations('FAQ');
 
-  // Grab the length of the FAQ items
-  const faqItems = t.raw('items') as Array<{ question: string; answer: string }>;
+  const faqItems = t.raw('items') as unknown as FAQItem[];
+
+  if (!Array.isArray(faqItems)) {
+    console.error('Expected faqItems to be an array but got:', faqItems);
+    return null; // avoid breaking if data is malformed
+  }
 
   return (
     <Section>

@@ -7,11 +7,6 @@ import { AppConfig } from '@/utils/AppConfig';
 
 import { Logo } from './Logo';
 
-
-
-
-
-
 export const Footer = () => {
   const t = useTranslations('Footer');
 
@@ -82,10 +77,10 @@ export const Footer = () => {
         legalLinks={(
           <>
             <li>
-              <Link href="/sign-up">{t('terms_of_service')}</Link>
+              <Link href="https://leads.dipilatoautomations.com/terms">{t('terms_of_service')}</Link>
             </li>
             <li>
-              <Link href="/sign-up">{t('privacy_policy')}</Link>
+              <Link href="https://leads.dipilatoautomations.com/privacy">{t('privacy_policy')}</Link>
             </li>
           </>
         )}
@@ -111,6 +106,6 @@ export const Footer = () => {
         </li>
       </CenteredFooter>
     </Section>
-    
+
   );
 };

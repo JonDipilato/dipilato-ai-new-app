@@ -34,7 +34,7 @@ export const Pricing = () => {
                 size: 'sm',
                 className: 'mt-5 w-full',
               })}
-              href="/sign-up"
+              href="https://buy.stripe.com/7sI29t1s6aGe3CM14s"
             >
               {t('button_text')}
             </Link>
@@ -45,7 +45,7 @@ export const Pricing = () => {
                 size: 'sm',
                 className: 'mt-5 w-full',
               })}
-              href="/sign-up"
+              href="https://buy.stripe.com/14kdSbdaO01A5KU00q"
             >
               {t('button_text')}
             </Link>
