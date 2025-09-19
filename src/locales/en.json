@@ -1,0 +1,331 @@
+{
+  "Index": {
+    "meta_title": "Local Service AI Concierge - Never Miss Another Appointment | DiPilato Automations",
+    "meta_description": "AI-powered virtual receptionist for local service businesses. Handle calls, book appointments, and manage customers 24/7. Perfect for salons, clinics, and fitness studios."
+  },
+  "Navbar": {
+    "sign_in": "Sign In",
+    "sign_up": "Start Free Trial",
+    "product": "Features",
+    "docs": "How It Works",
+    "blog": "Success Stories",
+    "community": "Support",
+    "company": "DiPilato Automations"
+  },
+  "Hero": {
+    "follow_twitter": "Follow @Jon_Dipilato on X",
+    "title": "<important>Never Miss</important> Another Appointment with Your AI <important>Virtual Receptionist</important>",
+    "description": "24/7 AI concierge that answers calls, books appointments, sends reminders, and manages your customers - so you can focus on what you do best.",
+    "primary_button": "Start Free Trial",
+    "secondary_button": "See How It Works"
+  },
+  "Sponsors": {
+    "title": "Sponsored by"
+  },
+  "Features": {
+    "section_subtitle": "Features",
+    "section_title": "Your AI Business Assistant That Never Sleeps",
+    "section_description": "Handle more customers, reduce no-shows, and grow your business with intelligent automation designed for service professionals.",
+
+    "feature1_title": "Smart Phone Answering",
+    "feature1_description": "AI receptionist answers every call professionally, schedules appointments, and captures customer information 24/7.",
+
+    "feature2_title": "Automatic Appointment Booking",
+    "feature2_description": "Customers can book instantly via phone or online. AI checks availability, prevents double-booking, and sends confirmations.",
+
+    "feature3_title": "SMS Reminders & Follow-ups",
+    "feature3_description": "Reduce no-shows by 70% with automated reminders, confirmments, and post-appointment follow-ups.",
+
+    "feature4_title": "Customer Database",
+    "feature4_description": "Automatically track customer preferences, appointment history, and contact details for personalized service.",
+
+    "feature5_title": "Calendar Integration",
+    "feature5_description": "Sync with Google Calendar, Outlook, or your existing booking system. Real-time availability updates.",
+
+    "feature6_title": "Business Analytics",
+    "feature6_description": "Track booking trends, peak hours, customer satisfaction, and revenue metrics to optimize your business."
+  },
+  "Pricing": {
+    "section_subtitle": "Pricing",
+    "section_title": "Choose Your AI Receptionist Plan",
+    "section_description": "Start with our free trial and scale as your business grows.",
+    "button_text": "Start Free Trial"
+  },
+  "PricingPlan": {
+    "trial_plan_name": "7-Day Free Trial",
+    "reception_plan_name": "Reception Assistant",
+    "business_plan_name": "Business Manager",
+    "growth_plan_name": "Growth Engine",
+    "custom_mobile_plan_name": "Custom Mobile App",
+    "custom_web_plan_name": "Custom Web Platform",
+    "enterprise_plan_name": "Enterprise Solution",
+
+    "trial_plan_description": "🔥 Start transforming your business TODAY! Try our AI receptionist risk-free for 7 days.",
+    "reception_plan_description": "Perfect for solo practitioners ready to scale! Never miss another appointment.",
+    "business_plan_description": "⭐ MOST POPULAR - Scale faster with SMS automation! Perfect for growing practices with multiple staff.",
+    "growth_plan_description": "🚀 ULTIMATE GROWTH - Complete automation solution for multi-location dominance!",
+    "custom_mobile_plan_description": "💎 PREMIUM - Custom iOS/Android app built specifically for your business. Full ownership & perpetual license included.",
+    "custom_web_plan_description": "🏆 ENTERPRISE - Custom web platform with advanced features, integrations, and your branding. You own the code forever.",
+    "enterprise_plan_description": "👑 ULTIMATE - Complete custom solution with mobile app, web platform, and enterprise integrations. Full ownership included.",
+
+    "feature_ai_calls": "{number} AI Phone Calls",
+    "feature_appointment_bookings": "{number} Appointment Bookings",
+    "feature_sms_reminders": "{number} SMS Reminders",
+    "feature_voice_minutes": "{number} Voice Minutes",
+    "feature_customers": "{number} Customer Records",
+    "feature_calendar_integration": "Smart Calendar Integration",
+    "feature_support": "Priority Support Access",
+    "feature_crm_sync": "CRM Integration & Sync",
+    "feature_email_support": "Email Support",
+    "feature_custom_development": "Custom Development Included",
+    "feature_perpetual_license": "Perpetual License & Full Ownership",
+    "feature_source_code": "Complete Source Code Access",
+    "feature_white_label": "White Label & Your Branding",
+    "feature_dedicated_support": "Dedicated Developer Support",
+    "feature_deployment_assistance": "Deployment & Training Included",
+    "plan_interval_month": "month",
+    "plan_interval_year": "year",
+    "plan_interval_one_time": "one-time payment",
+    "next_renew_date": "Your subscription renews on {date}"
+  },
+  "FAQ": {
+    "items": [
+      {
+        "question": "What makes Dipilato Automations different?",
+        "answer": "Dipilato Automations combines powerful automation tools with personalized AI agents to streamline your business workflows..."
+      },
+      {
+        "question": "Can I integrate my existing tools with Dipilato Automations?",
+        "answer": "Absolutely. Dipilato Automations supports seamless integration with popular tools and CRMs..."
+      },
+      {
+        "question": "What types of businesses benefit most from Dipilato Automations?",
+        "answer": "Our platform is built to serve small business owners, real estate pros..."
+      },
+      {
+        "question": "How does the AI outbound sales agent work?",
+        "answer": "Our AI outbound sales agent is trained to handle real-time calls, qualify leads..."
+      },
+      {
+        "question": "Do I need to be technical to use Dipilato Automations?",
+        "answer": "Not at all. Our no-code interface and built-in templates allow you to launch bots, campaigns, and workflows..."
+      },
+      {
+        "question": "What kind of support is available?",
+        "answer": "We offer personalized onboarding, a resource-rich help center, and priority support channels..."
+      }
+    ]
+  },
+
+  "CTA": {
+    "title": "Ready to Never Miss Another Appointment?",
+    "description": "Join thousands of service professionals who've transformed their customer experience with AI. Start your free trial today and see the difference.",
+    "button_text": "Prefer Human Support? Book a Call"
+  },
+  "Footer": {
+    "product": "Features",
+    "docs": "How It Works",
+    "blog": "Success Stories",
+    "community": "Support Center",
+    "company": "About DiPilato Automations",
+    "terms_of_service": "Terms Of Service",
+    "privacy_policy": "Privacy Policy",
+    "designed_by": "Designed by DiPilato Automations."
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "You do not have the permissions to perform this action. Please contact your administrator."
+  },
+  "SignIn": {
+    "meta_title": "Sign in to Dipilato Automations",
+    "meta_description": "Seamlessly sign in to your account and manage your automation solutions."
+  },
+  "SignUp": {
+    "meta_title": "Join Dipilato Automations",
+    "meta_description": "Effortlessly create your account and start scaling your business with smart automation."
+  },
+  "DashboardLayout": {
+    "home": "Dashboard",
+    "todos": "Appointments",
+    "members": "Team",
+    "billing": "Billing",
+    "settings": "Settings"
+  },
+  "Dashboard": {
+    "meta_title": "Dipilato Automations Dashboard",
+    "meta_description": "Manage your automation, agents, integrations, and analytics — all in one powerful dashboard."
+  },
+  "DashboardIndex": {
+    "title_bar": "Business Dashboard",
+    "title_bar_description": "Monitor your AI receptionist performance and customer interactions",
+    "message_state_title": "Welcome to Your AI Receptionist Control Center",
+    "message_state_description": "Your AI assistant is ready to handle calls, book appointments, and manage customers. Configure your business hours, services, and preferences to get started.",
+    "message_state_button": "Setup Your Business",
+    "message_state_alternative": "Need help setting up? Contact jondipilato@dipilatoautomations.com for personalized onboarding."
+  },
+  "UserProfile": {
+    "title_bar": "Your Profile",
+    "title_bar_description": "Manage your personal preferences and account settings"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Team & Organization",
+    "title_bar_description": "Configure your organization’s agents, integrations, and access controls."
+  },
+  "Billing": {
+    "title_bar": "Billing",
+    "title_bar_description": "Manage your subscription and plan features",
+    "current_section_title": "Your Plan",
+    "current_section_description": "Switch between growth plans based on your team’s evolving needs.",
+    "manage_subscription_button": "Manage Subscription"
+  },
+  "BillingOptions": {
+    "current_plan": "Current Plan",
+    "upgrade_plan": "Upgrade Now"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Checkout Complete",
+    "message_state_title": "Welcome aboard!",
+    "message_state_description": "Your subscription is active. Let’s get your automations set up!",
+    "message_state_button": "Go to Dashboard"
+  },
+  "DataTable": {
+    "no_results": "No results found. Add new entries to get started."
+  },
+  "Todos": {
+    "title_bar": "Appointment Manager",
+    "title_bar_description": "View and manage all customer appointments and bookings",
+    "add_todo_button": "Add Appointment"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Options",
+    "edit": "Edit",
+    "delete": "Cancel",
+    "title_header": "Customer",
+    "message_header": "Service & Notes",
+    "created_at_header": "Appointment Time"
+  },
+  "AddTodo": {
+    "title_bar": "New Task",
+    "add_todo_section_title": "Create Automation Task",
+    "add_todo_section_description": "Use this form to log an action or trigger for your team or agent"
+  },
+  "EditTodo": {
+    "title_bar": "Edit Task",
+    "edit_todo_section_title": "Update Automation",
+    "edit_todo_section_description": "Modify your task or trigger below."
+  },
+  "TodoForm": {
+    "title_label": "Task Name",
+    "title_description": "Give your task a name that describes its function.",
+    "message_title": "Details",
+    "message_description": "Explain what this task will trigger or accomplish.",
+    "submit_button": "Save"
+  },
+  "SuccessStories": {
+    "section_subtitle": "Success Stories",
+    "section_title": "Real Results from Real Businesses",
+    "section_description": "See how local service businesses are transforming their customer experience with AI.",
+
+    "story1_name": "Sarah Martinez",
+    "story1_business": "Bella Vista Salon",
+    "story1_quote": "Our AI receptionist handles 90% of bookings now. I can finally focus on what I love - making clients beautiful!",
+    "story1_metric1": "More Bookings",
+    "story1_metric2": "Hours Saved",
+
+    "story2_name": "Dr. Frank Chen",
+    "story2_business": "Downtown Dental",
+    "story2_quote": "No more missed calls means no more lost revenue. The AI even handles insurance questions perfectly.",
+    "story2_metric1": "Extra Revenue",
+    "story2_metric2": "Less No-Shows",
+
+    "story3_name": "Zoe Yoga Studio",
+    "story3_business": "Mindful Movement",
+    "story3_quote": "24/7 booking means clients can schedule at midnight if they want. It's like having the perfect front desk person.",
+    "story3_metric1": "Customer Satisfaction",
+    "story3_metric2": "Booking Increase"
+  },
+  "HowItWorks": {
+    "section_subtitle": "How It Works",
+    "section_title": "From Setup to Success in 4 Simple Steps",
+    "section_description": "Get your AI receptionist working for you in minutes, not weeks.",
+
+    "step1_title": "Quick Setup",
+    "step1_description": "Connect your calendar and phone number. Our AI learns your services, hours, and preferences in under 5 minutes.",
+
+    "step2_title": "AI Answers Calls",
+    "step2_description": "Customers call and chat with your professional AI receptionist 24/7. No more missed opportunities.",
+
+    "step3_title": "Smart Booking",
+    "step3_description": "AI checks availability, prevents conflicts, and books appointments instantly. Sends confirmations automatically.",
+
+    "step4_title": "You Get Results",
+    "step4_description": "Watch your bookings increase while no-shows decrease. Real-time dashboard shows your growth.",
+
+    "demo_title": "See It In Action",
+    "demo_description": "Watch how our AI handles real customer calls with natural conversation and perfect booking.",
+    "demo_placeholder": "Demo video coming soon - Try our live AI demo above!"
+  },
+  "Onboarding": {
+    "welcome_title": "Welcome to Your AI Receptionist!",
+    "welcome_description": "Let's get your AI assistant set up in just a few quick steps.",
+    "progress_label": "Setup Progress",
+
+    "step_phone_title": "Connect Your Phone Number",
+    "step_phone_description": "Add your business phone number so customers can reach your AI receptionist.",
+
+    "step_calendar_title": "Link Your Calendar",
+    "step_calendar_description": "Connect Google Calendar, Outlook, or your booking system for real-time availability.",
+
+    "step_services_title": "Configure Your Services",
+    "step_services_description": "Tell your AI about your services, pricing, and business hours.",
+
+    "step_test_title": "Test Your AI Assistant",
+    "step_test_description": "Make a test call to ensure everything is working perfectly.",
+
+    "complete_title": "You're All Set!",
+    "complete_description": "Your AI receptionist is ready to handle customer calls and bookings 24/7.",
+
+    "complete_button": "Complete",
+    "help_text": "Need help with setup?",
+    "contact_support": "Contact Support"
+  },
+  "Usage": {
+    "ai_calls": "AI Phone Calls",
+    "appointments": "Appointments Booked",
+    "sms_reminders": "SMS Reminders",
+    "voice_minutes": "Voice Minutes",
+    "customers": "Customer Records",
+    "plan_trial": "7-Day Trial",
+    "plan_paid": "Paid Plan",
+    "limit_warning": "Near Limit!"
+  },
+  "AiCalls": {
+    "title": "AI Phone Assistant",
+    "description": "Monitor your AI receptionist's performance and call activity",
+    "test_call": "Test Call",
+    "calls_today": "Calls Today",
+    "bookings_made": "Bookings Made",
+    "total_time": "Total Talk Time",
+    "recent_calls": "Recent Calls",
+    "outcome_booked": "Booked",
+    "outcome_info": "Info Request",
+    "outcome_callback": "Callback",
+    "no_calls_title": "No Calls Yet",
+    "no_calls_description": "Your AI assistant is ready! Share your phone number to start receiving calls.",
+    "setup_phone": "Setup Phone Number"
+  },
+  "Appointments": {
+    "title": "Appointment Manager",
+    "description": "View and manage your upcoming appointments",
+    "add_appointment": "Add Appointment",
+    "today_total": "Today's Total",
+    "confirmed": "Confirmed",
+    "total_duration": "Total Time",
+    "upcoming": "Upcoming Appointments",
+    "status_confirmed": "Confirmed",
+    "status_pending": "Pending",
+    "status_completed": "Completed",
+    "no_appointments_title": "No Appointments",
+    "no_appointments_description": "Connect your calendar to start managing appointments automatically.",
+    "setup_calendar": "Connect Calendar"
+  }
+}
